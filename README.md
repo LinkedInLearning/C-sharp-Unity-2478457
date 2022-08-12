@@ -1,6 +1,6 @@
 # L’essentiel de C# avec Unity pour développer des jeux vidéo
 
-Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
+Ce dossier Repository est lié au cours `L'essentiel de C# Unity pour le développement de jeux vidéo`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![image](https://user-images.githubusercontent.com/71371373/184310028-652c0261-6c2d-45d1-a81a-caebd188b6f6.png)
 
