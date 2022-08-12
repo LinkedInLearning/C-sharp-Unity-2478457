@@ -1,10 +1,10 @@
-# Nom final de la formation
+# L’essentiel de C# avec Unity pour développer des jeux vidéo
 
 Ce dossier Repository est lié au cours `Nom final de la formation`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
 ![Nom final de la formation][lil-thumbnail-url][Copy&Past Image from LiL-Buddy] 
 
-DESCRIPTION DE LA FORMATION
+Si vous êtes développeur de jeux vidéo, alors suivez cette formation consacrée à C# Unity. Avec Maxime Briand, vous entrerez rapidement dans le vif du sujet en découvrant l'interface d'Unity, en créant un premier projet et en assimilant la programmation en langage C#. Vous aborderez les types de stockage et vous mettrez en œuvre l'algorithmique, avant de passer aux notions avancées de la programmation orientée objet. Vous verrez également comment générer, tout au long de votre projet, un code propre et maintenable à l'aide de quelques bonnes pratiques.
 
 ## Instructions
 
@@ -27,9 +27,7 @@ La branche master correspond au code à la fin de la formation.
 
 ### Formateur
 
-**Nom du formateur** 
-
- Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
+**Maxime Briandr** 
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/building-a-graphql-project-with-react-js
