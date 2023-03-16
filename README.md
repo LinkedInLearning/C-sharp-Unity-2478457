@@ -2,7 +2,7 @@
 
 Ce dossier Repository est lié au cours `L'essentiel de C# Unity pour le développement de jeux vidéo`. Le cours entier est disponible sur [LinkedIn Learning][lil-course-url].
 
-![image](https://user-images.githubusercontent.com/71371373/184310028-652c0261-6c2d-45d1-a81a-caebd188b6f6.png)
+![COURSENAME][lil-thumbnail-url] 
 
 Si vous êtes développeur de jeux vidéo, alors suivez cette formation consacrée à C# Unity. Avec Maxime Briand, vous entrerez rapidement dans le vif du sujet en découvrant l'interface d'Unity, en créant un premier projet et en assimilant la programmation en langage C#. Vous aborderez les types de stockage et vous mettrez en œuvre l'algorithmique, avant de passer aux notions avancées de la programmation orientée objet. Vous verrez également comment générer, tout au long de votre projet, un code propre et maintenable à l'aide de quelques bonnes pratiques.
 
@@ -19,11 +19,7 @@ La branche master correspond au code à la fin de la formation.
 
 ## Installation
 
-1. Pour utiliser ces fichiers d’exercice, vous avez besoin de : 
-   - [Liste des logiciels/dépendances utiles à la formation] 
-2. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
-3. [Instructions spécifiques au cours] 
-
+1. Clonez ce dossier Repository sur votre machine locale (Mac), CMD (Windows), ou sur un outil GUI tel que SourceTree. 
 
 ### Formateur
 
@@ -31,7 +27,5 @@ La branche master correspond au code à la fin de la formation.
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 [lil-course-url]: https://www.linkedin.com/learning/l-essentiel-de-c-sharp-unity-pour-le-developpement-de-jeux-video/bienvenue-dans-l-essentiel-de-c-sharp-unity-pour-le-developpement-de-jeux-video
-[lil-thumbnail-url]: https://cdn.lynda.com/course/2875095/2875095-1615224395432-16x9.jpg
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2478457/2478457-1660134351818-16x9.jpg
 [lil-URL-trainer]: https://
-
-[1]: # (End of FR-Instruction ###############################################################################################)
